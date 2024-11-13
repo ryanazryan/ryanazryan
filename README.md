@@ -74,20 +74,3 @@
     <img src="https://th.bing.com/th/id/OIP.fsbJn6FplHzWY2wuclVo2gHaEK?rs=1&pid=ImgDetMain" alt="Mobile Legends" width="160" height="90" />
 </div>
 
-  
-<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
-    <!-- Contoh sederhana karakter bulat yang melompat -->
-    <circle cx="100" cy="100" r="20" fill="orange">
-        <animate 
-            attributeName="cy"
-            from="100"
-            to="50"
-            dur="0.5s"
-            begin="0s"
-            repeatCount="indefinite"
-            direction="alternate" />
-    </circle>
-</svg>
-
-
-
