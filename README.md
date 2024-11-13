@@ -8,7 +8,7 @@
 
 <br/>
 
-<div style="font-size: 30px;">🌐 Connect with Me</div>
+<h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
 
