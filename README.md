@@ -6,3 +6,5 @@
 📫 You can reach me through [LinkedIn](https://www.linkedin.com/in/naufalazryan) or via email at naufalazryan05@gmail.com.  
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love experimenting with new tech stacks and contributing to community-driven projects!
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisitors)
