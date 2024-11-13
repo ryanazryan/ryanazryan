@@ -34,8 +34,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=naufalazryan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 </div>
 
-<br/>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
