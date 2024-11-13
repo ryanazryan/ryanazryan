@@ -54,14 +54,6 @@
 
 <br/>
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-    
-</div>
-
-<br/>
-
 <h2 align="center">🏆 Achievment</h2>
 
 <div align="center">
@@ -72,6 +64,14 @@
     
 </div>
 
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+    
+</div>
+
+<br/>
 
   
 
