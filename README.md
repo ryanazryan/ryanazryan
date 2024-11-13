@@ -67,6 +67,13 @@
 
 <br/>
 
+<h2>🎮 Favorite Games</h2>
+<div align="center">
+    <img src="https://th.bing.com/th/id/OIP.Mvqh5xhx-dWQWDDsV7dVMwHaEK?rs=1&pid=ImgDetMain" alt="Red Dead Redemption 2" width="80" />
+    <img src="https://www.gamespot.com/a/uploads/scale_medium/469/4693985/2330894-2322534-2227554-grand+theft+auto+v.jpg" alt="GTA V" width="80" />
+    <img src="https://th.bing.com/th/id/OIP.fsbJn6FplHzWY2wuclVo2gHaEK?rs=1&pid=ImgDetMain" alt="Mobile Legends" width="80" />
+</div>
+
   
 
 
