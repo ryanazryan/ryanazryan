@@ -54,7 +54,7 @@
 
 <br/>
 
-![Quote](https://img.shields.io/badge/dynamic/json?color=informational&label=Daily%20Quote&query=%24[0].q&url=https://zenquotes.io/api/random)
+![Random Quote](https://quotesondesign.com/wp-json/wp/v2/posts/?orderby=rand)
   
 
 
