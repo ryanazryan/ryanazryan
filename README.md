@@ -36,7 +36,7 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?naufalazryan=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalazryan&layout=compact)
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
