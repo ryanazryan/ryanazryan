@@ -43,14 +43,6 @@
 
 ---
 
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-    
-</div>
-
----
-
 # 🛠️ Tech Stack
 
 ## ⚡ Database
@@ -75,3 +67,8 @@
 
 ---
 
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+    
+</div>
