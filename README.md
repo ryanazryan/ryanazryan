@@ -6,6 +6,8 @@
 😄 Pronouns: He/Him  
 ⚡ Fun fact: I love experimenting with new tech stacks and contributing to community-driven projects!
 
+<br/>
+
 <div align="center"> 
 <a href="https://instagram.com/naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -18,8 +20,10 @@
 </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,mysql" /><br>
