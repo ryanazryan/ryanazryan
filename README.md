@@ -8,6 +8,7 @@
 
 <br/>
 
+<div align="center">
 ## 🌐 Connect with Me
 
 <a href="https://discord.gg/naufalazryan" target="_blank">
@@ -30,7 +31,7 @@
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=naufalazryan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-
+</div>
 
 <br/>
 
