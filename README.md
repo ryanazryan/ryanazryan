@@ -8,8 +8,9 @@
 
 <br/>
 
-<div align="center">
 ## 🌐 Connect with Me
+
+<div align="center">
 
 <a href="https://discord.gg/naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
