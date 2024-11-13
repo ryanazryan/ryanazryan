@@ -10,7 +10,7 @@
 <a href="https://instagram.com/naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:naufalazryan05@gmail.com">
+<a href="mailto:naufalazryan05@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/naufalazryan/" target="_blank">
