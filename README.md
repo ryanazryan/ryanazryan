@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🌐 Connect with Me
+<h1 align="center">## 🌐 Connect with Me</h1>
 
 <div align="center">
 
