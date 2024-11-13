@@ -1,4 +1,4 @@
-👋 Hi, I’m @ryanazryan  
+👋 Hi, I’m Ryan
 🔭 I’m a Full Stack Developer and currently pursuing a Bachelor's degree in Informatics at Telkom University.  
 👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.  
 🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.  
