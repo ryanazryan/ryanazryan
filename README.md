@@ -54,7 +54,8 @@
 
 <br/>
 
-![Random Quote](https://quotesondesign.com/wp-json/wp/v2/posts/?orderby=rand)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
   
 
 
