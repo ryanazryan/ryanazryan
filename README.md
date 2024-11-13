@@ -62,9 +62,16 @@
 
 <br/>
 
+<h2 align="center">🏆 Achievment</h2>
+
+<div align="center">
+
+
 <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
-      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman White Badge" />
-    </a>
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" alt="Postman White Badge" /></a>
+    
+</div>
+
 
   
 
