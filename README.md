@@ -54,7 +54,7 @@
 
 <br/>
 
-<h2 align="center">🏆 Achievment</h2>
+<h2 align="center">🏆 Achievement</h2>
 
 <div align="center">
 
@@ -64,9 +64,8 @@
     
 </div>
 
-<br/>
 
-<div align="center">
+<div align="center margin-top: 10px">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
     
