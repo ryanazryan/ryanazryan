@@ -64,8 +64,10 @@
     
 </div>
 
+<br/>
+<br/>
 
-<div align="center" margin-top="10px">
+<div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
     
