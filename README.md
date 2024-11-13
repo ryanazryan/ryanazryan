@@ -67,10 +67,12 @@
 
 <br/>
 
+<!--
 <h2 align="center">🎮 Favorite Games</h2>
+
 <div align="center">
     <img src="https://th.bing.com/th/id/OIP.Mvqh5xhx-dWQWDDsV7dVMwHaEK?rs=1&pid=ImgDetMain" alt="Red Dead Redemption 2" width="160" height="90" />
     <img src="https://th.bing.com/th/id/OIP.6Vcv_FtdZHVjCVDr66uY1AHaEK?rs=1&pid=ImgDetMain" alt="GTA V" width="160" height="90" />
     <img src="https://th.bing.com/th/id/OIP.fsbJn6FplHzWY2wuclVo2gHaEK?rs=1&pid=ImgDetMain" alt="Mobile Legends" width="160" height="90" />
 </div>
-
+-->
