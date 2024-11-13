@@ -8,17 +8,29 @@
 
 <br/>
 
-<div align="center"> 
+## 🌐 Connect with Me
+
+<a href="https://discord.gg/naufalazryan" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="https://facebook.com/naufalazryan" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
 <a href="https://instagram.com/naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:naufalazryan05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/naufalazryan/" target="_blank">
+<a href="https://linkedin.com/in/naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-</div>
+<a href="https://twitter.com/naufalazryan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://youtube.com/@naufalazryan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+![Profile Views](https://komarev.com/ghpvc/?username=naufalazryan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 
 <br/>
 
