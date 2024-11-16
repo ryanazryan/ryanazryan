@@ -33,6 +33,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,java,nextjs,mysql" /><br>
 </div>
 
+<br/>
+
 <div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufalazryan&layout=compact)
