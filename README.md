@@ -61,8 +61,13 @@
 
 <div align="center">
 
-### 🎧 Now Playing
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=09tic08vsx7mq4kci1fobmrh0&cover_image=true&theme=default&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.vercel.app)
+<h2 align="center">🎧 Now Playing on Spotify</h2>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/09tic08vsx7mq4kci1fobmrh0" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=09tic08vsx7mq4kci1fobmrh0&cover_image=true&theme=novatorem&bar_color=1db954&bar_color_cover=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 </div>
 
