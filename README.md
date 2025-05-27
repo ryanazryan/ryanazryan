@@ -61,6 +61,15 @@
 
 <div align="center">
 
+### 🎧 Now Playing
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=09tic08vsx7mq4kci1fobmrh0&cover_image=true&theme=default&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
     
 </div>
