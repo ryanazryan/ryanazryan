@@ -57,21 +57,7 @@
 ## 👩‍💻 IDE
 | ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![RStudio](https://img.shields.io/badge/RStudio-14B8A6?style=for-the-badge&logo=rstudio&logoColor=white) |
 |---|---|---|
----
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryanazryan&theme=tokyonight)
-</p>
-
-<p align="center">
-  ![GitHub Contribution](https://github.com/ryanazryan.png?size=200)
-</p>
-
-<p align="center">
-  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ryanazryan.ryanazryan)
-</p>
 ---
 
 <div align="center">
