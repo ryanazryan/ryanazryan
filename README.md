@@ -17,7 +17,7 @@
   <a href="https://instagram.com/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ryanazryan05" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="30" height="30">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=" />
 </a>
   <a href="https://t.me/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://youtube.com/@naufalazryan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
