@@ -1,6 +1,5 @@
-
-<p align="left">
-  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="50%" alt="MasterHead">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="1200px">
 </p>
 
 # 👋 Hi, I’m Ryan
