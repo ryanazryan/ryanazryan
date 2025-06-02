@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="100%" alt="MasterHead">
+</p>
+
 # 👋 Hi, I’m Ryan
 
 🔭 I’m a Full Stack Developer and currently pursuing a Bachelor's degree in Informatics at Telkom University.  
