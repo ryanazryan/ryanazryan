@@ -1,7 +1,6 @@
-<p align="left">
-  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="1200px" height="360px">
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" style="max-width: 100%; height: auto;">
 </p>
-
 
 # 👋 Hi, I’m Ryan
 
