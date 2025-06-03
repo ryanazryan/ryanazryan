@@ -1,5 +1,19 @@
+<style>
+  .responsive-img {
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    .responsive-img {
+      width: 90%;
+    }
+  }
+</style>
+
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" style="max-width: 100%; height: auto;">
+  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" class="responsive-img">
 </p>
 
 # 👋 Hi, I’m Ryan
