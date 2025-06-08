@@ -29,7 +29,7 @@
 <h2 align="center">🏆 GitHub Tropies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&columns=2&rows=1" />
+  <img src="https://github-trophies.vercel.app/?username=ryanazryan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
 ---
