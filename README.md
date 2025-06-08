@@ -131,9 +131,13 @@
 
 ### 🎥 Latest YouTube Video
 
-<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
-  <img src="https://img.youtube.com/vi/2Y-i05hqKXg/maxresdefault.jpg" style="width: 49%; height: 315px; object-fit: cover;" />
-  <img src="https://img.youtube.com/vi/GnV00HJbsH8/maxresdefault.jpg" style="width: 49%; height: 315px; object-fit: cover;" />
+<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://youtu.be/2Y-i05hqKXg" target="_blank" rel="noopener noreferrer" style="flex: 1 1 45%; max-width: 560px;">
+    <img src="https://img.youtube.com/vi/2Y-i05hqKXg/maxresdefault.jpg" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;" alt="Video 1 Thumbnail" />
+  </a>
+  <a href="https://youtu.be/GnV00HJbsH8" target="_blank" rel="noopener noreferrer" style="flex: 1 1 45%; max-width: 560px;">
+    <img src="https://img.youtube.com/vi/GnV00HJbsH8/maxresdefault.jpg" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;" alt="Video 2 Thumbnail" />
+  </a>
 </div>
 
 <div align="center" style="margin-top: 20px;">
