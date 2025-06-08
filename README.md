@@ -31,6 +31,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+---
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div align="center">
