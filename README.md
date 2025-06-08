@@ -43,7 +43,7 @@
 <h2 style="font-weight:bold;">🗨️ Languages</h2>
 
 <div align="left" style="margin-bottom: 10px;">
-  <img src="https://skillicons.dev/icons?i=dart,go,java,html,typescript,python,css,javascript,php,r" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,css,java,dart,go,python,r" />
 </div>
 
 <h2 style="font-weight:bold;">🖥️ Frontend Frameworks & UI</h2>
