@@ -47,7 +47,10 @@
 
 ## Frontend Frameworks & UI
 <div align="left">
+  <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=react,reactnative,vue,bootstrap,tailwind,jquery,nextjs" />
+  
+  <!-- Shields.io -->
   <img src="https://img.shields.io/badge/Semantic_UI_React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
