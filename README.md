@@ -5,12 +5,12 @@
 
 # 👋 Hi, I’m Ryan
 
-🔭 I’m a Full Stack Developer and currently pursuing a Bachelor's degree in Informatics at Telkom University.  
-👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.  
-🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.  
-💞️ I’m looking to collaborate on open-source projects, web development, and tech innovations.  
-😄 Pronouns: He/Him  
-⚡ Fun fact: I love experimenting with new tech stacks and contributing to community-driven projects!
+🔭 I’m a Full Stack Developer currently pursuing a Bachelor's degree in Informatics at Telkom University.
+👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.
+🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.
+🤝 I’m looking to collaborate on open-source projects, web development, and tech innovations.
+😄 Pronouns: He/Him
+⚡ Fun fact: I enjoy experimenting with new tech stacks and contributing to community-driven projects.
 
 ---
 
@@ -32,19 +32,19 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&columns=3&rows=1)
 
 ---
 
 <h1 align="center">💻 Tech Stack</h1>
 
-<h2 style="font-weight:bold;"> Languages</h2>
+<h2 style="font-weight:bold;">🗨️ Languages</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=dart,go,java,html,typescript,python,css,javascript,php,r" />
 </div>
 
-<h2 style="font-weight:bold;">🎨 Frontend Frameworks & UI</h2>
+<h2 style="font-weight:bold;">🖥️ Frontend Frameworks & UI</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,jquery,nextjs" />
@@ -98,7 +98,7 @@
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </div>
 
-<h2 style="font-weight:bold;">📚 Design & Multimedia</h2>
+<h2 style="font-weight:bold;">🎨 Design & Multimedia</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=figma,blender" />
@@ -129,6 +129,8 @@
 <div align="left" style="margin-top: 8px;">
   <img src="https://img.shields.io/badge/RStudio-14B8A6?style=for-the-badge&logo=rstudio&logoColor=white" />
 </div>
+
+---
 
 <div align="center">
 
