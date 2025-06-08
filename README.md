@@ -131,20 +131,27 @@
 
 ### 🎥 Latest YouTube Video
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://youtu.be/2Y-i05hqKXg" target="_blank" rel="noopener noreferrer" style="flex: 1 1 45%; max-width: 560px;">
-    <img src="https://img.youtube.com/vi/2Y-i05hqKXg/maxresdefault.jpg" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;" alt="Video 1 Thumbnail" />
-  </a>
-  <a href="https://youtu.be/GnV00HJbsH8" target="_blank" rel="noopener noreferrer" style="flex: 1 1 45%; max-width: 560px;">
-    <img src="https://img.youtube.com/vi/GnV00HJbsH8/maxresdefault.jpg" style="width: 100%; height: auto; object-fit: cover; border-radius: 8px;" alt="Video 2 Thumbnail" />
-  </a>
-</div>
+<table align="center" cellspacing="15">
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=2Y-i05hqKXg" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/2Y-i05hqKXg/maxresdefault.jpg" width="300" alt="Video 1" style="border-radius:8px;" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=GnV00HJbsH8" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.youtube.com/vi/GnV00HJbsH8/maxresdefault.jpg" width="300" alt="Video 2" style="border-radius:8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center" style="margin-top: 20px;">
   <a href="https://www.youtube.com/@naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
          alt="YouTube Channel" 
-         style="width: 150px; height: 50px;" />
+         style="width: 130px; height: 45px;" />
   </a>
 </div>
 
