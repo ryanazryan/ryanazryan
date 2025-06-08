@@ -19,21 +19,14 @@
 <h1 align="center">🌐 Connect with Me</h1>
 
 <div align="center">
-  <a href="https://discord.gg/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://facebook.com/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/ryanazryan05" target="_blank"><img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&label=" /></a>
-  <a href="https://t.me/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://youtube.com/@naufalazryan" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <br>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=naufalazryan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+  <a href="https://discord.gg/naufalazryan" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40" /></a>
+  <a href="https://instagram.com/naufalazryan" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" /></a>
+  <a href="https://linkedin.com/in/naufalazryan" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" /></a>
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">🏆 GitHub Tropies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&columns=2&rows=1" />
@@ -133,4 +126,9 @@
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
     
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=naufalazryan&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 </div>
