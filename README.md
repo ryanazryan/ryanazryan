@@ -151,7 +151,7 @@
   <a href="https://www.youtube.com/@naufalazryan" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
          alt="YouTube Channel" 
-         style="width: 130px; height: 45px;" />
+         style="width: 130px; height: 42px;" />
   </a>
 </div>
 
