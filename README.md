@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hi, I’m Ryan
+<h1 align="center">Hi, Im Ryan 👋</h1>
 
 🔭 I’m a Full Stack Developer currently pursuing a Bachelor's degree in Informatics at Telkom University.
 👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.
