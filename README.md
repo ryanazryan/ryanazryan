@@ -5,12 +5,14 @@
 
 <h1 align="center">Hi, Im Ryan 👋</h1>
 
-🔭 I’m a Full Stack Developer currently pursuing a Bachelor's degree in Informatics at Telkom University.
-👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.
-🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.
-🤝 I’m looking to collaborate on open-source projects, web development, and tech innovations.
-😄 Pronouns: He/Him
-⚡ Fun fact: I enjoy experimenting with new tech stacks and contributing to community-driven projects.
+<div style="line-height: 1.6; font-size: 16px;" align="center">
+  <p>🔭 I’m a Full Stack Developer currently pursuing a Bachelor's degree in Informatics at Telkom University.</p>
+  <p>👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.</p>
+  <p>🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.</p>
+  <p>🤝 I’m looking to collaborate on open-source projects, web development, and tech innovations.</p>
+  <p>⚡ Fun fact: I enjoy experimenting with new tech stacks and contributing to community-driven projects.</p>
+</div>
+
 
 ---
 
