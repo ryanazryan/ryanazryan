@@ -14,7 +14,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h1 align="center">🌐 Connect with Me</h1>
 
 <div align="center">
   <a href="https://discord.gg/naufalazryan" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -36,21 +36,21 @@
 
 ---
 
-# 💻 Tech Stack
+<h1 align="center">💻 Tech Stack</h1>
 
-## Languages
+<h2 style="font-weight:bold;"> Languages</h2>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=dart,go,java,html,php,typescript,python,r,css,javascript" />
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=dart,go,java,html,typescript,python,css,javascript,php,r" />
 </div>
 
+<h2 style="font-weight:bold;">🎨 Frontend Frameworks & UI</h2>
 
-## Frontend Frameworks & UI
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,jquery,nextjs" />
+</div>
+
 <div align="left">
-  <!-- Skillicons -->
-  <img src="https://skillicons.dev/icons?i=react,reactnative,vue,bootstrap,tailwind,jquery,nextjs" />
-  
-  <!-- Shields.io -->
   <img src="https://img.shields.io/badge/Semantic_UI_React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
@@ -58,55 +58,77 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
+<h2 style="font-weight:bold;">🖥️ Backend & Server</h2>
 
-## Backend & Server
-| ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)  
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-|---|---|---|
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,laravel" />
+</div>
 
-## Cloud & Deployment
-| ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)  
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-|---|---|---|
+<div align="left">
+  <img src="https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
+</div>
 
-## Database
-| ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-|---|---|---|
+<h2 style="font-weight:bold;">☁️ Cloud & Deployment</h2>
 
-## Tools & Utilities
-| ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)  
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  
-|---|---|---|
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=vercel,firebase,netlify,nginx,apache" />
+</div>
 
-## Design & Multimedia
-| ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)  
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-|---|---|---|
+<h2 style="font-weight:bold;">🗄️ Database</h2>
 
-## 📚 Education
-| ![freeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) | ![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white) | ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) |
-|---|---|---|
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</div>
 
-## 👩‍💻 IDE
-| ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![RStudio](https://img.shields.io/badge/RStudio-14B8A6?style=for-the-badge&logo=rstudio&logoColor=white) |
-|---|---|---|
+<h2 style="font-weight:bold;">⚒️ Tools & Utilities</h2>
 
----
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,npm,webpack,vite,postman,socketio" />
+</div>
+
+<div align="left">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
+</div>
+
+<h2 style="font-weight:bold;">📚 Design & Multimedia</h2>
+
+<div align="left" style="margin-bottom: 10px;">
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</div>
+
+<div align="left" style="margin-top: 10px;">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
+
+<h2 style="font-weight:bold;">📚 Education</h2>
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" /></td>
+  </tr>
+</table>
+
+<h2 style="font-weight:bold;">👩‍💻 IDE</h2>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
+</div>
+
+<div align="left" style="margin-top: 8px;">
+  <img src="https://img.shields.io/badge/RStudio-14B8A6?style=for-the-badge&logo=rstudio&logoColor=white" />
+</div>
 
 <div align="center">
 
