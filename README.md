@@ -32,6 +32,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ryanazryan&theme=radical&columns=2&rows=1" />
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ryanazryan&theme=dark&hide_border=false" /><br/>
+</div>
 
 ---
 
