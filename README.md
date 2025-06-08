@@ -129,6 +129,22 @@
 
 ---
 
+### 🎥 Latest YouTube Video
+
+<div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 10px;">
+  <img src="https://img.youtube.com/vi/2Y-i05hqKXg/maxresdefault.jpg" style="width: 49%; height: 315px; object-fit: cover;" />
+  <img src="https://img.youtube.com/vi/GnV00HJbsH8/maxresdefault.jpg" style="width: 49%; height: 315px; object-fit: cover;" />
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <a href="https://www.youtube.com/@naufalazryan" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" 
+         alt="YouTube Channel" 
+         style="width: 150px; height: 50px;" />
+  </a>
+</div>
+
+---
 <div align="center">
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
