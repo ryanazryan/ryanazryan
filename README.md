@@ -2,11 +2,10 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Iyajg2aHJiaDB4eWV5Nngwb21lb2lnNG45c2xsdHN4NHB0cmNpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="100%" height="auto">
 </p>
 
-
-<h1 align="center">Hi, Im Ryan 👋</h1>
+<h1 align="center"><strong>Hi, I'm Ryan👋</strong></h1>
+<h2 align="center"><strong>Software Engineer · Informatics Student</strong></h2>
 
 <div style="line-height: 1.6; font-size: 16px;" align="center">
-  <p>🔭 I’m a Full Stack Developer currently pursuing a Bachelor's degree in Informatics at Telkom University.</p>
   <p>👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.</p>
   <p>🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.</p>
   <p>🤝 I’m looking to collaborate on open-source projects, web development, and tech innovations.</p>
