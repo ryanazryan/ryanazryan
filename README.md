@@ -6,16 +6,16 @@
 <h2 align="center"><strong>Software Engineer · Informatics Student</strong></h2>
 
 <div style="line-height: 1.6; font-size: 16px;" align="center">
-  <p>👀 I’m interested in developing innovative web applications, learning new technologies, and improving user experience.</p>
-  <p>🌱 I’m currently learning advanced backend frameworks, cloud services, and mobile app development.</p>
-  <p>🤝 I’m looking to collaborate on open-source projects, web development, and tech innovations.</p>
-  <p>⚡ Fun fact: I enjoy experimenting with new tech stacks and contributing to community-driven projects.</p>
+  <p>I’m interested in developing innovative web applications, learning new technologies, and improving user experience.</p>
+  <p>I’m currently learning advanced backend frameworks, cloud services, and mobile app development.</p>
+  <p>I’m looking to collaborate on open-source projects, web development, and tech innovations.</p>
+  <p>Fun fact: I enjoy experimenting with new tech stacks and contributing to community-driven projects.</p>
 </div>
 
 
 ---
 
-<h1 align="center">🌐 Connect with Me</h1>
+<h1 align="center">Connect with Me</h1>
 
 <div align="center">
   <a href="https://discord.gg/naufalazryan" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="40" height="40" /></a>
@@ -25,7 +25,7 @@
 
 ---
 
-<h2 align="center">🏆 GitHub Tropies</h2>
+<h2 align="center">GitHub Tropies</h2>
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=ryanazryan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ryanazryan&theme=dark&hide_border=false" /><br/>
@@ -41,15 +41,15 @@
 
 ---
 
-<h1 align="center">💻 Tech Stack</h1>
+<h1 align="center">Tech Stack</h1>
 
-<h2 style="font-weight:bold;">🗨️ Languages</h2>
+<h2 style="font-weight:bold;">Languages</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=php,javascript,typescript,css,java,dart,go,python,r" />
 </div>
 
-<h2 style="font-weight:bold;">🖥️ Frontend Frameworks & UI</h2>
+<h2 style="font-weight:bold;">Frontend Frameworks & UI</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,tailwind,jquery,nextjs" />
@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </div>
 
-<h2 style="font-weight:bold;">🖥️ Backend & Server</h2>
+<h2 style="font-weight:bold;">Backend & Server</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=nextjs,nodejs,laravel" />
@@ -80,13 +80,13 @@
   <img src="https://skillicons.dev/icons?i=vercel,firebase,netlify,nginx,apache" />
 </div>
 
-<h2 style="font-weight:bold;">🗄️ Database</h2>
+<h2 style="font-weight:bold;">Database</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </div>
 
-<h2 style="font-weight:bold;">⚒️ Tools & Utilities</h2>
+<h2 style="font-weight:bold;">Tools & Utilities</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=github,gitlab,git,npm,webpack,vite,postman,socketio" />
@@ -96,7 +96,7 @@
   <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
 </div>
 
-<h2 style="font-weight:bold;">🎨 Design & Multimedia</h2>
+<h2 style="font-weight:bold;">Design & Multimedia</h2>
 
 <div align="left" style="margin-bottom: 10px;">
   <img src="https://skillicons.dev/icons?i=figma,blender" />
@@ -106,7 +106,7 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" />
 </div>
 
-<h2 style="font-weight:bold;">📚 Education</h2>
+<h2 style="font-weight:bold;">Education</h2>
 
 <table>
   <tr>
@@ -116,7 +116,7 @@
   </tr>
 </table>
 
-<h2 style="font-weight:bold;">👩‍💻 IDE</h2>
+<h2 style="font-weight:bold;">IDE</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
@@ -128,7 +128,7 @@
 
 ---
 
-### 🎥 Latest YouTube Video
+### Latest YouTube Video
 
 <table align="center" cellspacing="15">
   <tr>
