@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#202624">
+  <meta name="description" content="A tiny, playable coding studio by Ryan. Find three modules, fix two bugs, and ship something small.">
+  <title>Ryan's Little Coding Studio</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <script src="game.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#game-title">Skip to game</a>
+<div class="page">
+  <header><a class="wordmark" href="https://github.com/ryanazryan">Ryan<span>.</span></a><span class="edition">A little studio experiment</span><a href="https://github.com/ryanazryan/ryanazryan">View source <span aria-hidden="true">↗</span></a></header>
+  <main>
+    <div class="intro"><div><p class="eyebrow">Make yourself at home</p><h1 id="game-title">Ryan's Little<br><span>Coding Studio.</span></h1></div><p>A small project. A cozy afternoon.<br> Find the pieces, fix the bugs,<br> and make something work.</p></div>
+    <section class="game-layout" aria-label="Coding studio game">
+      <div class="play-area">
+        <div class="window-bar"><span><i></i> The studio</span><span id="phase">Ready when you are</span></div>
+        <div class="canvas-wrap">
+          <canvas id="room" width="384" height="256" tabindex="0" role="img" aria-label="Pixel-art studio. Move with arrow keys or WASD; press E or Space near an object. Text mode below provides the complete game without navigating the canvas." aria-describedby="controls-help">Your browser cannot draw the studio. Enable text mode below to play the complete game.</canvas>
+          <div id="start-screen" class="overlay"><div><p class="pixel">Welcome, builder.</p><h2>Let's ship a little idea.</h2><p>Collect 3 code modules and fix 2 bugs.<br>Then return to the desk to deploy.</p><button id="start" class="primary">Enter the studio <span aria-hidden="true">→</span></button><p class="small">No timer. No pressure. About 2 minutes.</p></div></div>
+          <div id="win-screen" class="overlay" hidden><div><p class="pixel">A little victory</p><h2>It works. You shipped it.</h2><p>Three modules, two thoughtful fixes.<br>Time to enjoy a quiet moment.</p><button id="again" class="primary">Make something else</button><p class="small">Deployment is part of the game.<br>No real files or services are changed.</p></div></div>
+        </div>
+        <div class="room-caption"><span id="nearby">A warm desk, a few ideas, and room to explore.</span><button id="interact" disabled>Interact <kbd>E</kbd></button></div>
+        <div class="touch-controls" aria-label="Touch movement controls"><div class="dpad"><button data-dir="up" aria-label="Move up">↑</button><button data-dir="left" aria-label="Move left">←</button><button data-dir="down" aria-label="Move down">↓</button><button data-dir="right" aria-label="Move right">→</button></div><button id="touch-action" class="action" disabled>Interact</button></div>
+      </div>
+      <aside aria-label="Project progress">
+        <p class="eyebrow">Today's small project</p><h2>A garden journal</h2><p class="aside-copy">A place to keep little notes about growing things.</p>
+        <label for="progress">Project progress <strong id="progress-label">0 / 6</strong></label><progress id="progress" max="6" value="0">0 of 6</progress>
+        <ol class="checklist"><li id="check-modules"><span class="check" aria-hidden="true"></span><div>Collect code modules<small id="module-count">0 of 3 found</small></div></li><li id="check-bugs"><span class="check" aria-hidden="true"></span><div>Fix two small bugs<small id="bug-count">0 of 2 resolved</small></div></li><li id="check-ship"><span class="check" aria-hidden="true"></span><div>Ship from the desk<small>A little idea, brought to life</small></div></li></ol>
+        <div class="journal"><span class="pixel">Studio notes</span><p id="status" role="status" aria-live="polite" aria-atomic="true">The modules are ivory envelopes. Bugs are amber critters. Walk close, then interact.</p></div>
+        <button id="restart" class="quiet">Restart project</button>
+      </aside>
+    </section>
+    <section class="controls-panel" aria-label="Game controls">
+      <div><p id="controls-help"><strong>Your keys to the studio</strong><br><kbd>W A S D</kbd> or arrow keys to move · <kbd>E</kbd> / <kbd>Space</kbd> to interact<br><span class="small">Click or tab to the room first. Tab leaves the game. Escape pauses movement.</span></p><label class="toggle"><input id="text-mode" type="checkbox"> Text mode — play without the canvas</label><label class="toggle"><input id="motion" type="checkbox"> Quiet motion</label></div>
+    </section>
+    <section id="text-actions" hidden aria-label="Text adventure"><h2>The studio, in words.</h2><p>You stand in a warm room with an oak desk, a bookcase, a small server, and a soft green rug. Choose a place to visit. The same puzzles and progress apply.</p><div id="destinations"></div></section>
+    <noscript><p>This game needs JavaScript enabled. Its source contains no analytics, external runtime libraries, or network requests.</p></noscript>
+  </main>
+  <footer><span>Made with care, one small thing at a time.</span><a href="https://github.com/ryanazryan">Back to Ryan's GitHub <span aria-hidden="true">↗</span></a></footer>
+</div>
+<dialog id="puzzle" aria-labelledby="puzzle-title" aria-describedby="puzzle-detail"><form method="dialog"><button class="close" aria-label="Close puzzle">×</button></form><p class="pixel">A small debugging break</p><h2 id="puzzle-title"></h2><p id="puzzle-detail"></p><pre><code id="puzzle-code"></code></pre><div id="answers"></div><p id="feedback" role="status" aria-live="polite"></p><button id="puzzle-done" class="primary" hidden>Back to the studio</button></dialog>
+</body>
+</html>
