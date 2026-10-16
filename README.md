@@ -60,6 +60,24 @@ Four different problems. A shared curiosity about how things work.
 
 ## Explore my little world
 
+<<<<<<< HEAD
+=======
+## Little Coding Studio
+<p align="center">
+  <a href="https://ryanazryan.github.io/ryanazryan/">
+    <img
+      src="https://img.shields.io/badge/PLAY_THIS_GAME-426B59?style=for-the-badge"
+      alt="Play This Game">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ryanazryan/ryanazryan/tree/main/docs">
+    <img
+      src="https://img.shields.io/badge/VIEW_SOURCE_CODE-303836?style=for-the-badge"
+      alt="View Source Code">
+  </a>
+</p>
+
+>>>>>>> 388d2f3 (Enhance README with game and source code links)
 <a href="docs/">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/game-preview-mobile.svg">
