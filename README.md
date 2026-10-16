@@ -18,17 +18,17 @@
 
 <p><em>Build. Explore. Repeat.</em></p>
 
-<a href="#selected-work">🗂️ Projects</a> &nbsp;·&nbsp;
-<a href="#little-coding-studio">🎮 Mini Game</a> &nbsp;·&nbsp;
-<a href="#inventory--tech-stack">⚙️ Inventory</a> &nbsp;·&nbsp;
-<a href="#youtube--video-notebook">▶ Videos</a> &nbsp;·&nbsp;
-<a href="#connect--social-portals">💬 Connect</a>
+<a href="#selected-work">Projects</a> &nbsp;·&nbsp;
+<a href="#little-coding-studio">Mini Game</a> &nbsp;·&nbsp;
+<a href="#inventory--tech-stack">Inventory</a> &nbsp;·&nbsp;
+<a href="#youtube--video-notebook">Videos</a> &nbsp;·&nbsp;
+<a href="#connect--social-portals">Connect</a>
 
 </div>
 
 ---
 
-## 🕹️ Player Profile
+## Player Profile
 
 **Hi, I'm Naufal Faiq Azryan — Ryan for short.** I'm an Informatics student at **Telkom University**, a software engineer and full-stack developer based in Indonesia, with an interest in AI and useful digital products.
 
@@ -43,7 +43,7 @@ I enjoy backend architecture, thoughtful interfaces, and turning real-world prob
 ╚═════════════════════════════════╝
 ```
 
-## 🌲 Selected Work
+## Selected Work
 
 *Four projects, four little worlds. Click any animated pixel-art scene to explore the repository.*
 
@@ -89,7 +89,7 @@ Literacy learning with student and teacher views, score submissions, and feedbac
 
 <sub>Illustrative pixel-art concepts, not product screenshots. Descriptions preserve the original repository review baseline from 16 October 2026; see [verification notes](VERIFICATION.md).</sub>
 
-## 🎮 Little Coding Studio
+## Little Coding Studio
 
 <a href="docs/">
   <picture>
@@ -104,7 +104,7 @@ An 8-bit mini adventure: collect **3 code modules**, fix **2 bugs**, then ship a
 
 <sub>GitHub does not run Canvas or JavaScript inside README. The animated GIF plays here; enable GitHub Pages from the `main` branch `/docs` directory and replace the source link with your verified game URL.</sub>
 
-## ⚙️ Inventory / Tech Stack
+## Inventory / Tech Stack
 
 *Skills and tools I've used or explored — not a claim of mastery of every item.*
 
@@ -124,35 +124,13 @@ An 8-bit mini adventure: collect **3 code modules**, fix **2 bugs**, then ship a
 
 </details>
 
-## 🏆 Achievements & Activity
-
-<a href="https://github.com/ryanazryan?tab=achievements">
-  <img src="assets/achievements-pixel.png" width="100%" alt="Pixel-art illustrated award shelf showing Pull Shark x2, Pair Extraordinaire, YOLO, and Quickdraw. Unofficial artwork; click for actual GitHub achievements.">
-</a>
-
-**Pull Shark ×2** · **Pair Extraordinaire** · **YOLO** · **Quickdraw**  
-<sub>Unofficial pixel illustrations of badges reported as verified on 16 October 2026. [See real GitHub achievements](https://github.com/ryanazryan?tab=achievements).</sub>
-
-<!-- activity:start -->
-<a href="https://github.com/ryanazryan?tab=overview&amp;from=2026-01-01&amp;to=2026-10-16">
-  <img src="assets/contributions-pixel.png" width="100%" alt="Pixel-art contribution garden snapshot. 185 public GitHub contributions over 53 active days, January 1 to October 16, 2026. Not a live counter.">
-</a>
-
-**185 contributions · 53 active days** · Public snapshot, **1 January – 16 October 2026**. [Check today's activity on GitHub ↗](https://github.com/ryanazryan)
-
-<sub>Snapshot data: [`design/contributions.json`](design/contributions.json). May differ from today's contribution count. The original updater rebuilds an SVG and this section; regenerate this pixel-art asset if you update the snapshot.</sub>
-<!-- activity:end -->
-
-<details>
-<summary><b>Live streak widget (third-party)</b></summary>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=ryanazryan&theme=dark&hide_border=true" alt="Live GitHub streak stats from a third-party service; may be temporarily unavailable." width="80%">
 </p>
 
 </details>
 
-## 📼 YouTube / Video Notebook
+## YouTube / Video Notebook
 
 *The video previews are custom pixel-art cover illustrations; click to open the real videos on YouTube.*
 
@@ -187,7 +165,7 @@ An 8-bit mini adventure: collect **3 code modules**, fix **2 bugs**, then ship a
 
 </details>
 
-## 💌 Connect / Social Portals
+## Connect / Social Portals
 
 <p align="center">
   <a href="https://github.com/ryanazryan"><img src="assets/social-github-pixel.png" height="48" alt="GitHub"></a>
