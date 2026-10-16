@@ -56,15 +56,15 @@ A biodiversity conservation and forest-fire risk monitoring platform exploring A
 Project status: Architecture and workspace setup.
 A modern commerce project with a planned Next.js and NestJS architecture. At the last repository review, it was still an early workspace foundation rather than a completed marketplace.
 
-## Hydropedia
-<a href="https://github.com/ryanazryan/Hydropedia">
+## Zarashi AI
+<a href="https://github.com/ryanazryan/zarashi">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-hydropedia-pixel-mobile.gif">
-    <img src="assets/project-hydropedia-pixel.gif" width="100%" alt="Animated pixel-art hydroponic greenhouse representing Hydropedia.">
+    <source media="(max-width: 600px)" srcset="assets/project-zarashi-pixel-mobile.gif">
+    <img src="assets/project-zarashi-pixel.gif" width="100%" alt="Animated pixel-art AI chatbot studio representing Zarashi AI, with a conversational interface and glowing code terminal.">
   </picture>
 </a>
-Project status: Academic team project.
-A hydroponic plant management project featuring environmental monitoring views and related plant data. The development work centers on Java, Spring, and SQLite.
+Project status: AI chatbot project.
+A web-based AI chatbot powered by the Google Gemini API, featuring text conversations, context-aware responses, and a responsive interface. Built with Next.js, TypeScript, and Tailwind CSS. Voice narration and AI image illustrations are planned features.
 
 ## SENA Education
 <a href="https://github.com/ryanazryan/sena">
