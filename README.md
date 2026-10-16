@@ -1,118 +1,193 @@
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Ryan's Creative Engineering Studio. Software Engineer & Full-Stack Developer. Informatics Student · AI Enthusiast, Indonesia. A warm miniature workspace with an oak desk, code editor, lamp, plants and server.">
-</picture>
+<!--
+  Ryan's Creative Engineering Studio — Pixel Edition
+  Animated GIFs are visual previews. The interactive game runs separately via GitHub Pages.
+  Project illustrations are conceptual art, not screenshots of deployed applications.
+-->
 
-<p align="center">
-  <a href="#selected-engineering-work">Selected work</a> &nbsp;·&nbsp;
-  <a href="#explore-my-little-world">A little world</a> &nbsp;·&nbsp;
-  <a href="#achievements--engineering-activity">Engineering activity</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/naufalazryan">Say hello ↗</a>
+<div align="center">
+
+<a href="https://github.com/ryanazryan">
+  <picture>
+    <source media="(max-width: 600px)" srcset="assets/hero-pixel-mobile.gif">
+    <img src="assets/hero-pixel.gif" width="100%" alt="Animated pixel-art scene of Ryan's Creative Engineering Studio, featuring a cozy workspace and coding terminal.">
+  </picture>
+</a>
+
+<h1>Hi, I'm Ryan.</h1>
+
+<p><strong>Software Engineer · Full-Stack Developer · Informatics Student</strong></p>
+
+<p>Build. Explore. Repeat.</p>
+
+<p>
+  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
+  <a href="#little-coding-studio">Mini Game</a> &nbsp;·&nbsp;
+  <a href="#inventory--tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+  <a href="#youtube--video-notebook">YouTube</a> &nbsp;·&nbsp;
+  <a href="#connect--social-portals">Connect</a>
 </p>
 
-## A little about me
+</div>
 
-I'm **Naufal Faiq Azryan** — Ryan for short. I'm a software engineer and Informatics student at **Telkom University**, based in Indonesia.
 
-I enjoy turning practical problems into useful applications, from the backend decisions that keep things dependable to the small interface details that make them pleasant to use. Lately, I've been exploring environmental intelligence, backend architecture, and what AI can bring to everyday software.
+## Player Profile
+I'm Naufal Faiq Azryan, or Ryan for short. I'm a software engineer, full-stack developer, and Informatics student at Telkom University, based in Indonesia.
+I enjoy designing dependable backend systems, creating thoughtful interfaces, and translating real-world problems into useful software. My current interests include environmental intelligence, modern web platforms, and AI-assisted development.
 
-## Selected engineering work
-
-Four different problems. A shared curiosity about how things work.
-
+## Selected Work
+A collection of projects at different stages of development. Each animated scene links to its GitHub repository.
+## Auvrion Biosphere
 <a href="https://github.com/ryanazryan/auvrion-biosphere">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-auvrion-mobile.svg">
-    <img src="assets/project-auvrion.svg" width="100%" alt="Auvrion Biosphere. Forest observation diorama. Environmental intelligence foundations using Next.js, TypeScript, Drizzle and PostgreSQL/PostGIS. Early development.">
+    <source media="(max-width: 600px)" srcset="assets/project-auvrion-pixel-mobile.gif">
+    <img src="assets/project-auvrion-pixel.gif" width="100%" alt="Animated pixel-art forest monitoring diorama representing Auvrion Biosphere.">
   </picture>
 </a>
+Project status: Foundations in progress.
+A biodiversity conservation and forest-fire risk monitoring platform exploring AIoT, WebGIS, and environmental observations. The project uses Next.js and TypeScript with PostgreSQL/PostGIS foundations; its environmental product capabilities are still being developed.
 
-[**Auvrion Biosphere**](https://github.com/ryanazryan/auvrion-biosphere) · **Foundations in progress.** Exploring biodiversity observations, fire-risk monitoring, AIoT and WebGIS. Authentication and database foundations exist; the environmental product capabilities are still being developed.
-
+## Ruma Marketplace
 <a href="https://github.com/ryanazryan/ruma">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-ruma-mobile.svg">
-    <img src="assets/project-ruma.svg" width="100%" alt="Ruma Marketplace. A miniature product and packing studio. pnpm workspace setup; planned Next.js, NestJS and PostgreSQL architecture. Application features are not yet implemented in the inspected main branch.">
+    <source media="(max-width: 600px)" srcset="assets/project-ruma-pixel-mobile.gif">
+    <img src="assets/project-ruma-pixel.gif" width="100%" alt="Animated pixel-art packing studio representing Ruma Marketplace.">
   </picture>
 </a>
+Project status: Architecture and workspace setup.
+A modern commerce project with a planned Next.js and NestJS architecture. At the last repository review, it was still an early workspace foundation rather than a completed marketplace.
 
-[**Ruma Marketplace**](https://github.com/ryanazryan/ruma) · **Architecture & workspace setup.** Commerce groundwork with a planned Next.js and NestJS architecture. The current repository contains the workspace skeleton; catalog, checkout and service integrations remain plans.
-
-<a href="https://github.com/ryanazryan/Hydropedia">
+## Zarashi AI
+<a href="https://github.com/ryanazryan/zarashi">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-hydropedia-mobile.svg">
-    <img src="assets/project-hydropedia.svg" width="100%" alt="Hydropedia. A tiny hydroponic greenhouse. Academic team project with Java, Spring Boot, Thymeleaf and SQLite.">
+    <source media="(max-width: 600px)" srcset="assets/project-zarashi-pixel-mobile.gif">
+    <img src="assets/project-zarashi-pixel.gif" width="100%" alt="Animated pixel-art AI chatbot studio representing Zarashi AI, with a conversational interface and glowing code terminal.">
   </picture>
 </a>
+Project status: AI chatbot project.
+A web-based AI chatbot powered by the Google Gemini API, featuring text conversations, context-aware responses, and a responsive interface. Built with Next.js, TypeScript, and Tailwind CSS. Voice narration and AI image illustrations are planned features.
 
-[**Hydropedia**](https://github.com/ryanazryan/Hydropedia) · **Academic team project.** Hydroponic plant management with pH and nutrient monitoring views. Built with Java, Spring Boot, Thymeleaf and SQLite.
-
+## SENA Education
 <a href="https://github.com/ryanazryan/sena">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-sena-mobile.svg">
-    <img src="assets/project-sena.svg" width="100%" alt="SENA Education. A miniature reading room. Literacy-learning project using React, TypeScript, Vite and Firebase.">
+    <source media="(max-width: 600px)" srcset="assets/project-sena-pixel-mobile.gif">
+    <img src="assets/project-sena-pixel.gif" width="100%" alt="Animated pixel-art study room representing SENA Education.">
   </picture>
 </a>
 
-[**SENA Education**](https://github.com/ryanazryan/sena) · **Learning-platform project.** Literacy learning with student and teacher views, submission flows and feedback integration code. Built with React, TypeScript, Vite and Firebase; live service operation has not been verified here.
+Project status: Learning-platform project.
+A literacy-learning platform with student and teacher views, score submissions, and feedback integration. Built with React, TypeScript, Vite, and Firebase.
+The pixel-art illustrations are conceptual rather than actual product screenshots. Project descriptions follow the repository review baseline from 16 October 2026. See the [verification notes](VERIFICATION.md) for details.
 
-<sub>Original concept illustrations, not app screenshots. Project descriptions reflect source inspected on 16 October 2026. [Source notes](VERIFICATION.md).</sub>
 
-## Explore my little world
+## Little Coding Studio
+<p align="center">
+  <a href="https://ryanazryan.github.io/ryanazryan/">
+    <img
+      src="https://img.shields.io/badge/PLAY_THIS_GAME-426B59?style=for-the-badge"
+      alt="Play This Game">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ryanazryan/ryanazryan/tree/main/docs">
+    <img
+      src="https://img.shields.io/badge/VIEW_SOURCE_CODE-303836?style=for-the-badge"
+      alt="View Source Code">
+  </a>
+</p>
 
 <a href="docs/">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/game-preview-mobile.svg">
-    <img src="assets/game-preview.svg" width="100%" alt="Ryan's Little Coding Studio — actual game preview. Collect three code modules, fix two bugs and ship a garden journal. This link opens the included source; the game has not been published to GitHub Pages.">
+    <source media="(max-width: 600px)" srcset="assets/game-preview-pixel-mobile.gif">
+    <img src="assets/game-preview-pixel.gif" width="100%" alt="Animated preview of Ryan's Little Coding Studio. The image currently links to the game source.">
   </picture>
 </a>
 
-A tiny, playable studio for a quiet break. Find **3 modules**, fix **2 bugs**, and bring a small idea to life. Keyboard, touch controls, reduced motion, and a complete text mode are included.
+A small pixel-art coding adventure. Collect 3 code modules, fix 2 bugs, and ship a garden journal. The playable game includes keyboard and touch controls, plus an accessible text mode.
+The animation runs directly in this README. The interactive game requires GitHub Pages; once it is published, the image can link to the live game instead.
 
-**[Browse the game source](docs/)** · [Run locally or set up GitHub Pages](INSTALL.md#game)
+## Inventory / Tech Stack
+Technologies I've used or explored through personal, academic, and collaborative projects. Some are still part of my ongoing learning.
+<p align="center">
+  <img src="assets/toolkit-pixel.png" width="100%" alt="Pixel-art inventory representing programming tools and creative software.">
+</p>
 
-<sub>The preview links to source. A live play link will be added after GitHub Pages is enabled and checked.</sub>
+## Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,php,py,java,dart,go,r&amp;theme=dark&amp;perline=8" alt="TypeScript, JavaScript, PHP, Python, Java, Dart, Go, R">
+</p>
 
-## Engineering toolkit
+## Frontend / UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,bootstrap,jquery&amp;theme=dark&amp;perline=6" alt="React, Vue, Next.js, Tailwind CSS, Bootstrap, jQuery">
+</p>
 
-Tools I've worked with or explored — chosen for the problem, with plenty still to learn.
+I have also worked with or explored DaisyUI, React Query, React Router, and React Hook Form.
+Backend / Server
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,spring,nestjs&amp;theme=dark&amp;perline=4" alt="Node.js, Laravel, Spring, NestJS">
+</p>
 
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.svg">
-  <img src="assets/toolkit.svg" width="100%" alt="Languages: TypeScript, JavaScript, Go, PHP, Python, Java, Dart. Frontend: React, Next.js, Tailwind CSS, Bootstrap. Backend: Node.js, Laravel, Spring Boot. Data and cloud: PostgreSQL, MySQL, Firebase, Vercel. Tools: Git, GitHub, VS Code, Postman, Vite. Creative: Figma, Blender, Canva.">
-</picture>
+Additional experience includes CodeIgniter. NestJS is currently an explored or planned technology.
+Database / Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,vercel,netlify,nginx&amp;theme=dark&amp;perline=6" alt="PostgreSQL, MySQL, Firebase, Vercel, Netlify, Nginx">
+</p>
 
-## Achievements & Engineering Activity
+I have also used or explored Apache.
+## Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,npm,vite,postman,vscode,androidstudio&amp;theme=dark&amp;perline=8" alt="Git, GitHub, GitLab, npm, Vite, Postman, VS Code, Android Studio">
+</p>
 
-<a href="https://github.com/ryanazryan?tab=achievements">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/achievements-mobile.svg">
-    <img src="assets/achievements.svg" width="100%" alt="Original unofficial achievement shelf: Pull Shark x2, Pair Extraordinaire, YOLO and Quickdraw. All four verified on Ryan's live GitHub profile on 16 October 2026.">
-  </picture>
-</a>
+## Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender&amp;theme=dark&amp;perline=2" alt="Figma and Blender">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva">
+</p>
 
-**Pull Shark ×2** · **Pair Extraordinaire** · **YOLO** · **Quickdraw**
+Learning resources include freeCodeCamp and W3Schools.
 
-<sub>Verified on 16 October 2026. These little sculptures are unofficial artwork; [view the original GitHub badges](https://github.com/ryanazryan?tab=achievements).</sub>
+## YouTube / Video Notebook
+A selection of videos from my YouTube channel. Each preview uses the original YouTube thumbnail and links directly to its video.
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=2Y-i05hqKXg">
+        <img src="https://img.youtube.com/vi/2Y-i05hqKXg/hqdefault.jpg" width="100%" alt="Original YouTube thumbnail for Konsep Dasar Basis Data">
+      </a>
+      <p><strong>Konsep Dasar Basis Data</strong></p>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://www.youtube.com/watch?v=GnV00HJbsH8">
+        <img src="https://img.youtube.com/vi/GnV00HJbsH8/hqdefault.jpg" width="100%" alt="Original YouTube thumbnail for Video HEI Telkom University">
+      </a>
+      <p><strong>Video HEI Telkom University</strong></p>
+    </td>
+  </tr>
+</table>
 
-<!-- activity:start -->
-<a href="https://github.com/ryanazryan?tab=overview&amp;from=2026-01-01&amp;to=2026-10-16">
-  <img src="assets/contributions.svg" width="100%" alt="Ryan's contribution garden. 185 publicly visible GitHub contributions across 53 active days, 1 January to 16 October 2026. A dated snapshot; column heights represent GitHub intensity levels.">
-</a>
+<p align="center">
+  <a href="https://www.youtube.com/@naufalazryan">
+    <img src="assets/social-youtube-pixel.png" width="170" alt="Visit my YouTube channel">
+  </a>
+</p>
 
-**185 contributions · 53 active days** in the public calendar from 1 January to 16 October 2026. [Current activity on GitHub ↗](https://github.com/ryanazryan)
 
-<sub>Local artwork with a [verifiable data snapshot](design/contributions.json). No live counter, streak promise, or external image service.</sub>
-<!-- activity:end -->
+## Connect / Social Portals
+Find me on other platforms or get in touch through the links below.
+<p align="center">
+  <a href="https://github.com/ryanazryan"><img src="assets/social-github-pixel.png" height="48" alt="GitHub"></a>&nbsp;
+  <a href="https://linkedin.com/in/naufalazryan"><img src="assets/social-linkedin-pixel.png" height="48" alt="LinkedIn"></a>&nbsp;
+  <a href="https://instagram.com/naufalazryan"><img src="assets/social-instagram-pixel.png" height="48" alt="Instagram"></a>&nbsp;
+  <a href="https://discord.gg/naufalazryan"><img src="assets/social-discord-pixel.png" height="48" alt="Discord"></a>&nbsp;
+  <a href="https://www.youtube.com/@naufalazryan"><img src="assets/social-youtube-pixel.png" height="48" alt="YouTube"></a>
+</p>
 
-## Elsewhere on the internet
+<p align="center">
+  <img src="assets/quote-pixel.png" width="100%" alt="Pixel-art quote about making steady, thoughtful progress.">
+</p>
 
-[LinkedIn](https://linkedin.com/in/naufalazryan) &nbsp;·&nbsp; [Instagram](https://instagram.com/naufalazryan) &nbsp;·&nbsp; [Discord](https://discord.gg/naufalazryan) &nbsp;·&nbsp; [YouTube](https://www.youtube.com/@naufalazryan)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ryanazryan&amp;label=Profile%20Views&amp;color=548565&amp;style=flat-square" alt="Profile views from a third-party counter">
+</p>
 
-From my video notebook: [Konsep Dasar Basis Data](https://www.youtube.com/watch?v=2Y-i05hqKXg) · [Video HEI Telkom University](https://www.youtube.com/watch?v=GnV00HJbsH8)
-
----
-
-**Thanks for stopping by the studio.**<br>
-One useful thing, one thoughtful detail, one small step at a time.<br>
-— Ryan
+<p align="center"><strong>Thanks for visiting my studio. Made with care by Ryan.</strong></p>
