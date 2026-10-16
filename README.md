@@ -112,9 +112,6 @@ An 8-bit mini adventure: collect **3 code modules**, fix **2 bugs**, then ship a
   <img src="assets/toolkit-pixel.png" width="100%" alt="Pixel-art toolkit inventory: TypeScript, JavaScript, Go, PHP, Python, Java, Dart; React, Next.js, Vue, Tailwind, Bootstrap; Node.js, Laravel, Spring, PostgreSQL, MySQL, Firebase; Git, GitHub, Vite, Postman, VS Code, Figma, Blender, Canva.">
 </p>
 
-<details>
-<summary><b>Open detailed skill inventory</b></summary>
-
 **Languages:** TypeScript, JavaScript, PHP, Python, Java, Dart, Go, R  
 **Frontend / UI:** React, Vue, Next.js, Tailwind CSS, Bootstrap, jQuery, DaisyUI, React Query, React Router, React Hook Form  
 **Backend:** Node.js, Laravel, CodeIgniter, Spring, explored NestJS  
