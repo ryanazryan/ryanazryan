@@ -80,6 +80,20 @@ The pixel-art illustrations are conceptual rather than actual product screenshot
 
 
 ## Little Coding Studio
+<p align="center">
+  <a href="https://ryanazryan.github.io/ryanazryan/">
+    <img
+      src="https://img.shields.io/badge/PLAY_THIS_GAME-426B59?style=for-the-badge"
+      alt="Play This Game">
+  </a>
+  &nbsp;
+  <a href="https://github.com/ryanazryan/ryanazryan/tree/main/docs">
+    <img
+      src="https://img.shields.io/badge/VIEW_SOURCE_CODE-303836?style=for-the-badge"
+      alt="View Source Code">
+  </a>
+</p>
+
 <a href="docs/">
   <picture>
     <source media="(max-width: 600px)" srcset="assets/game-preview-pixel-mobile.gif">
