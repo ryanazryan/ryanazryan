@@ -186,8 +186,4 @@ Find me on other platforms or get in touch through the links below.
   <img src="assets/quote-pixel.png" width="100%" alt="Pixel-art quote about making steady, thoughtful progress.">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryanazryan&amp;label=Profile%20Views&amp;color=548565&amp;style=flat-square" alt="Profile views from a third-party counter">
-</p>
-
 <p align="center"><strong>Thanks for visiting my studio. Made with care by Ryan.</strong></p>
