@@ -60,50 +60,23 @@ Four different problems. A shared curiosity about how things work.
 
 ## Explore my little world
 
-<a href="docs/">
+**[Play the Mini Game](https://ryanazryan.github.io/ryanazryan/)**
+
+<a href="https://ryanazryan.github.io/ryanazryan/">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/game-preview-pixel-mobile.gif">
-    <img src="assets/game-preview-pixel.gif" width="100%" alt="Animated pixel-art preview of Ryan's Little Coding Studio: a developer walks around a room with a desk, three code modules, and bug characters. This image is a non-interactive preview; the link currently opens game source, not a live deployment.">
+    <source
+      media="(max-width: 600px)"
+      srcset="assets/game-preview-pixel-mobile.gif"
+    >
+    <img
+      src="assets/game-preview-pixel.gif"
+      width="100%"
+      alt="Play Ryan's Little Coding Studio"
+    >
   </picture>
 </a>
 
 A tiny, playable studio for a quiet break. The animated GIF above is a visual preview, not an interactive game inside GitHub. Find **3 modules**, fix **2 bugs**, and bring a small idea to life. Keyboard, touch controls, reduced motion, and a complete text mode are included.
-
-**[Browse the game source](docs/)** · [Run locally or set up GitHub Pages](INSTALL.md#game)
-
-<sub>The preview links to source. A live play link will be added after GitHub Pages is enabled and checked.</sub>
-
-## Engineering toolkit
-
-Tools I've worked with or explored — chosen for the problem, with plenty still to learn.
-
-<picture>
-  <source media="(max-width: 600px)" srcset="assets/toolkit-mobile.svg">
-  <img src="assets/toolkit.svg" width="100%" alt="Languages: TypeScript, JavaScript, Go, PHP, Python, Java, Dart. Frontend: React, Next.js, Tailwind CSS, Bootstrap. Backend: Node.js, Laravel, Spring Boot. Data and cloud: PostgreSQL, MySQL, Firebase, Vercel. Tools: Git, GitHub, VS Code, Postman, Vite. Creative: Figma, Blender, Canva.">
-</picture>
-
-## Achievements & Engineering Activity
-
-<a href="https://github.com/ryanazryan?tab=achievements">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/achievements-mobile.svg">
-    <img src="assets/achievements.svg" width="100%" alt="Original unofficial achievement shelf: Pull Shark x2, Pair Extraordinaire, YOLO and Quickdraw. All four verified on Ryan's live GitHub profile on 16 October 2026.">
-  </picture>
-</a>
-
-**Pull Shark ×2** · **Pair Extraordinaire** · **YOLO** · **Quickdraw**
-
-<sub>Verified on 16 October 2026. These little sculptures are unofficial artwork; [view the original GitHub badges](https://github.com/ryanazryan?tab=achievements).</sub>
-
-<!-- activity:start -->
-<a href="https://github.com/ryanazryan?tab=overview&amp;from=2026-01-01&amp;to=2026-10-16">
-  <img src="assets/contributions.svg" width="100%" alt="Ryan's contribution garden. 185 publicly visible GitHub contributions across 53 active days, 1 January to 16 October 2026. A dated snapshot; column heights represent GitHub intensity levels.">
-</a>
-
-**185 contributions · 53 active days** in the public calendar from 1 January to 16 October 2026. [Current activity on GitHub ↗](https://github.com/ryanazryan)
-
-<sub>Local artwork with a [verifiable data snapshot](design/contributions.json). No live counter, streak promise, or external image service.</sub>
-<!-- activity:end -->
 
 ## Elsewhere on the internet
 
