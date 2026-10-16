@@ -53,18 +53,16 @@ A biodiversity conservation and forest-fire risk monitoring platform exploring A
     <img src="assets/project-ruma-pixel.gif" width="100%" alt="Animated pixel-art packing studio representing Ruma Marketplace.">
   </picture>
 </a>
-Project status: Architecture and workspace setup.
-A modern commerce project with a planned Next.js and NestJS architecture. At the last repository review, it was still an early workspace foundation rather than a completed marketplace.
 
-## Zarashi AI
-<a href="https://github.com/ryanazryan/zarashi">
+**[Ruma Marketplace](https://github.com/ryanazryan/ruma)** · `Architecture & workspace setup`  
+Modern commerce groundwork, with a planned Next.js and NestJS architecture. The inspected project state was an early workspace skeleton, not a completed marketplace.
+
+<a href="https://github.com/ryanazryan/Hydropedia">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-zarashi-pixel-mobile.gif">
-    <img src="assets/project-zarashi-pixel.gif" width="100%" alt="Animated pixel-art AI chatbot studio representing Zarashi AI, with a conversational interface and glowing code terminal.">
+    <source media="(max-width: 600px)" srcset="assets/project-hydropedia-pixel-mobile.gif">
+    <img src="assets/project-hydropedia-pixel.gif" width="100%" alt="Animated pixel-art hydroponic greenhouse, monitoring console and water tanks for Hydropedia. Click to open the repository.">
   </picture>
 </a>
-Project status: AI chatbot project.
-A web-based AI chatbot powered by the Google Gemini API, featuring text conversations, context-aware responses, and a responsive interface. Built with Next.js, TypeScript, and Tailwind CSS. Voice narration and AI image illustrations are planned features.
 
 ## SENA Education
 <a href="https://github.com/ryanazryan/sena">
