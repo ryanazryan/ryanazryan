@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile.svg">
-  <img src="assets/hero.svg" width="100%" alt="Ryan's Creative Engineering Studio. Software Engineer & Full-Stack Developer. Informatics Student · AI Enthusiast, Indonesia. A warm miniature workspace with an oak desk, code editor, lamp, plants and server.">
+  <source media="(max-width: 600px)" srcset="assets/hero-pixel-mobile.gif">
+  <img src="assets/hero-pixel.gif" width="100%" alt="Animated pixel-art banner for Ryan's Creative Engineering Studio: a cozy coding room with a walking character, blinking terminal, and warm wooden furniture.">
 </picture>
 
 <p align="center">
@@ -62,12 +62,12 @@ Four different problems. A shared curiosity about how things work.
 
 <a href="docs/">
   <picture>
-    <source media="(max-width: 600px)" srcset="assets/game-preview-mobile.svg">
-    <img src="assets/game-preview.svg" width="100%" alt="Ryan's Little Coding Studio — actual game preview. Collect three code modules, fix two bugs and ship a garden journal. This link opens the included source; the game has not been published to GitHub Pages.">
+    <source media="(max-width: 600px)" srcset="assets/game-preview-pixel-mobile.gif">
+    <img src="assets/game-preview-pixel.gif" width="100%" alt="Animated pixel-art preview of Ryan's Little Coding Studio: a developer walks around a room with a desk, three code modules, and bug characters. This image is a non-interactive preview; the link currently opens game source, not a live deployment.">
   </picture>
 </a>
 
-A tiny, playable studio for a quiet break. Find **3 modules**, fix **2 bugs**, and bring a small idea to life. Keyboard, touch controls, reduced motion, and a complete text mode are included.
+A tiny, playable studio for a quiet break. The animated GIF above is a visual preview, not an interactive game inside GitHub. Find **3 modules**, fix **2 bugs**, and bring a small idea to life. Keyboard, touch controls, reduced motion, and a complete text mode are included.
 
 **[Browse the game source](docs/)** · [Run locally or set up GitHub Pages](INSTALL.md#game)
 
