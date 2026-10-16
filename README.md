@@ -34,15 +34,6 @@
 
 I enjoy backend architecture, thoughtful interfaces, and turning real-world problems into software. I'm exploring **environmental intelligence**, **web platforms**, and **AI-assisted development**, one project at a time.
 
-```text
-╔═══════════ QUEST LOG ═══════════╗
-║ [✓] Keep learning              ║
-║ [✓] Build useful projects      ║
-║ [>] Share experiments          ║
-║ [ ] The next great idea        ║
-╚═════════════════════════════════╝
-```
-
 ## Selected Work
 
 *Four projects, four little worlds. Click any animated pixel-art scene to explore the repository.*
