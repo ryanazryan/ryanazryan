@@ -20,7 +20,6 @@
 <p>Build. Explore. Repeat.</p>
 
 <p>
-  <a href="#selected-work">Projects</a> &nbsp;·&nbsp;
   <a href="#little-coding-studio">Mini Game</a> &nbsp;·&nbsp;
   <a href="#inventory--tech-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#youtube--video-notebook">YouTube</a> &nbsp;·&nbsp;
@@ -33,51 +32,6 @@
 ## Player Profile
 I'm Naufal Faiq Azryan, or Ryan for short. I'm a software engineer, full-stack developer, and Informatics student at Telkom University, based in Indonesia.
 I enjoy designing dependable backend systems, creating thoughtful interfaces, and translating real-world problems into useful software. My current interests include environmental intelligence, modern web platforms, and AI-assisted development.
-
-## Selected Work
-A collection of projects at different stages of development. Each animated scene links to its GitHub repository.
-## Auvrion Biosphere
-<a href="https://github.com/ryanazryan/auvrion-biosphere">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-auvrion-pixel-mobile.gif">
-    <img src="assets/project-auvrion-pixel.gif" width="100%" alt="Animated pixel-art forest monitoring diorama representing Auvrion Biosphere.">
-  </picture>
-</a>
-Project status: Foundations in progress.
-A biodiversity conservation and forest-fire risk monitoring platform exploring AIoT, WebGIS, and environmental observations. The project uses Next.js and TypeScript with PostgreSQL/PostGIS foundations; its environmental product capabilities are still being developed.
-
-## Ruma Marketplace
-<a href="https://github.com/ryanazryan/ruma">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-ruma-pixel-mobile.gif">
-    <img src="assets/project-ruma-pixel.gif" width="100%" alt="Animated pixel-art packing studio representing Ruma Marketplace.">
-  </picture>
-</a>
-Project status: Architecture and workspace setup.
-A modern commerce project with a planned Next.js and NestJS architecture. At the last repository review, it was still an early workspace foundation rather than a completed marketplace.
-
-## Zarashi AI
-<a href="https://github.com/ryanazryan/zarashi">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-zarashi-pixel-mobile.gif">
-    <img src="assets/project-zarashi-pixel.gif" width="100%" alt="Animated pixel-art AI chatbot studio representing Zarashi AI, with a conversational interface and glowing code terminal.">
-  </picture>
-</a>
-Project status: AI chatbot project.
-A web-based AI chatbot powered by the Google Gemini API, featuring text conversations, context-aware responses, and a responsive interface. Built with Next.js, TypeScript, and Tailwind CSS. Voice narration and AI image illustrations are planned features.
-
-## SENA Education
-<a href="https://github.com/ryanazryan/sena">
-  <picture>
-    <source media="(max-width: 600px)" srcset="assets/project-sena-pixel-mobile.gif">
-    <img src="assets/project-sena-pixel.gif" width="100%" alt="Animated pixel-art study room representing SENA Education.">
-  </picture>
-</a>
-
-Project status: Learning-platform project.
-A literacy-learning platform with student and teacher views, score submissions, and feedback integration. Built with React, TypeScript, Vite, and Firebase.
-The pixel-art illustrations are conceptual rather than actual product screenshots. Project descriptions follow the repository review baseline from 16 October 2026. See the [verification notes](VERIFICATION.md) for details.
-
 
 ## Little Coding Studio
 <p align="center">
